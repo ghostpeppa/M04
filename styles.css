@@ -1,0 +1,73 @@
+body
+{
+    background-image: url(images/LS-Fruit.jpg);
+}
+.logo
+{
+    text-align: center;
+}
+
+.nav
+{
+    background-color: blue;
+    margin-top: ;
+    list-style: none;
+    min-height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px 0 20px 0;
+
+}
+
+.nav li
+{
+    
+    display: inline-block;
+    padding-right: 70px;
+}
+
+.feature
+{
+    background-color: aqua;
+    margin-top: 30px;
+    text-align: center;
+    height: 25%;        
+}
+
+.one
+{
+    text-align: center;
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 3%;
+    background-color: green;
+    margin-top: 10px;
+
+}
+.two
+{
+    text-align: center;
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 3%;
+    margin-top: 10px;
+    background-color: greenyellow;
+
+    
+}
+.three
+{    
+    text-align: center;
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 3%;
+    margin-top: 10px;
+    background-color:darkseagreen;
+
+}
+
